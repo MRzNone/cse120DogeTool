@@ -15,3 +15,9 @@ pip install -r requirements.txt
 ```bash
 python sync120.py
 ```
+
+
+
+Sample Screen shot:
+
+![screen_shot](https://i.ibb.co/RzhB1Dd/WX20200109-225915-2x.png)
