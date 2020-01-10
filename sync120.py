@@ -25,6 +25,11 @@ import atexit
       ...
 
   Just change PA_STR when you change PA
+
+  E.g.:
+
+    PA_STR = "pa1"
+    PAS_DIR = ".../CSE 120/PAs/"  Remember the "/" in the end
 '''
 PAS_DIR = "DIR FOR ALL PAS"   # CHANGE ME
 PA_STR = "CHANGE ME TO THE PA FOLDER" # CHANGE ME
